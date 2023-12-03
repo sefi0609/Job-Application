@@ -11,23 +11,23 @@ For the database I've used MySQL.
 ## Photos
 
 ### Main page
-![image](https://github.com/sefi0609/Job-Application/assets/81361291/9e619881-bb19-479f-94fd-7316fe5588d4)
+![image](https://github.com/sefi0609/Job-Application/assets/81361291/7080c209-7450-47dc-9e62-b935c9a58032)
 
 ### Appliaction submitted successfully
-![image](https://github.com/sefi0609/Job-Application/assets/81361291/7652232d-6e8a-4f1d-bbb9-eaee0022fca1)
+![image](https://github.com/sefi0609/Job-Application/assets/81361291/7a01c578-cf8a-4aab-86e0-0845deb2839d)
 
 ### Appliaction not submitted
-![image](https://github.com/sefi0609/Job-Application/assets/81361291/66fde113-9e48-4121-bb6f-4bdfc3a9b8ec)
+![image](https://github.com/sefi0609/Job-Application/assets/81361291/d7136c57-1822-4a62-9e68-f82f31b53f10)
 
 ### About 
-![image](https://github.com/sefi0609/Job-Application/assets/81361291/286cea20-ce9b-4338-83e6-a21f8a31e7f0)
+![image](https://github.com/sefi0609/Job-Application/assets/81361291/872e568d-2817-439c-9c7b-2507ce3941d6)
 
 ### Admin page
-![image](https://github.com/sefi0609/Job-Application/assets/81361291/c78a4fd1-7bf9-4460-abf3-21528f4bd3ed)
+![image](https://github.com/sefi0609/Job-Application/assets/81361291/2815afb5-d25a-4b25-9618-110625266df6)
 
-![image](https://github.com/sefi0609/Job-Application/assets/81361291/80333971-dbdc-47bb-a0b4-0ebde30a6c3d)
+![image](https://github.com/sefi0609/Job-Application/assets/81361291/4b945c6e-72ae-41dc-931b-78009bbecdc5)
 
 ### Email
-![image](https://github.com/sefi0609/Job-Application/assets/81361291/4ca9ca5b-a38d-4032-aca6-1646a8d01c5d)
+![image](https://github.com/sefi0609/Job-Application/assets/81361291/abb0a090-1b2a-4aa1-aacd-f65795cdaa9c)
 
-![image](https://github.com/sefi0609/Job-Application/assets/81361291/ce7ed6f8-b9c9-41b5-b46d-f3b4c3b71d88)
+![image](https://github.com/sefi0609/Job-Application/assets/81361291/01758efd-6091-4bac-9287-2ecf551b0d9f)
