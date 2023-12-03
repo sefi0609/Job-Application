@@ -1,0 +1,52 @@
+{% extends 'base.html' %}
+{% block content %}
+<h1 class="mt-4 md-4">Job Application From</h1>
+<form method="post" enctype="multipart/form-data">
+    {% csrf_token %}
+    <div class="from-group mb-4">
+        <label for="first_name">First Name:</label>
+        <input class="form-control" type="text" id="first_name" name="first_name" value="{{ form.first_name.value }}" required>
+    </div>
+    <div class="from-group mb-4">
+        <label for="last_name">Last Name:</label>
+        <input class="form-control" type="text" id="last_name" name="last_name" value="{{ form.last_name.value }}" required>
+    </div>
+    <div class="from-group mb-4">
+        <label for="email">Email:</label>
+        <input class="form-control" type="email" id="email" name="email" value="{{ form.email.value }}" required>
+    </div>
+    <div class="from-group mb-4">
+        <label for="start_date">Available start date:</label>
+        <input class="form-control" type="date" id="start_date" name="start_date" value="{{ form.start_date.value }}" required>
+    </div>
+    <div class="mb-4">
+        <label for="resume" class="form-label">Upload Resume</label>
+        <input class="form-control" type="file" id="resume" name="resume" value="{{ form.resume.value }}" required>
+    </div>
+    <div class="from-group mb-4">
+        <label>Current occupation</label>
+        <br>
+        <div class="btn-group-vertical" id="occupation">
+            <input class="btn-check form-control" type="radio" id="employed" name="occupation" value="employed" required>
+            <label class="btn btn-outline-secondary" for="employed">Employed</label>
+
+            <input class="btn-check form-control" type="radio" id="student" name="occupation" value="student" required>
+            <label class="btn btn-outline-secondary" for="student">Student</label>
+
+            <input class="btn-check form-control" type="radio" id="self_employed" name="occupation" value="self_employed" required>
+            <label class="btn btn-outline-secondary" for="self_employed">Self-Employed</label>
+
+            <input class="btn-check form-control" type="radio" id="unemployed" name="occupation" value="unemployed" required>
+            <label class="btn btn-outline-secondary" for="unemployed">Unemployed</label>
+        </div>
+    </div>
+    <button class="btn btn-secondary mb-4" type="submit">Submit</button>
+    {% if messages %}
+        {% for message in messages %}
+          <div class="alert alert-{{ message.tags }}">
+            {{ message }}
+          </div>
+        {% endfor %}
+    {% endif %}
+</form>
+{% endblock %}
