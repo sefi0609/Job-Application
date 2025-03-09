@@ -1,22 +1,20 @@
 # Job-Application
 
-This is a website for companies recruiters,  
-where your candidates can apply to your company.  
-In the Admin page you can view the candidates information,  
-as well as the candidates resumes.  
-When the candidate submit the form he will get an email conformation.  
-I've used Django Framework to ceate this websit.  
-For the database I've used MySQL.
+This is a website for company recruiters, where candidates can apply to your company.  
+On the Admin page, you can view the candidates' information and resumes.  
+When the candidate submits the form he will get an email confirmation.  
+I've used Django Framework to create this website.  
+For the database,e I've used MySQL.
 
 ## Photos
 
 ### Main page
 ![image](https://github.com/sefi0609/Job-Application/assets/81361291/7080c209-7450-47dc-9e62-b935c9a58032)
 
-### Appliaction submitted successfully
+### Application submitted successfully
 ![image](https://github.com/sefi0609/Job-Application/assets/81361291/7a01c578-cf8a-4aab-86e0-0845deb2839d)
 
-### Appliaction not submitted
+### Application not submitted
 ![image](https://github.com/sefi0609/Job-Application/assets/81361291/d7136c57-1822-4a62-9e68-f82f31b53f10)
 
 ### About 
