@@ -1,12 +1,19 @@
-# Job-Application
+# 🏢 Job-Application
 
-This is a website for company recruiters, where candidates can apply to your company.  
-On the Admin page, you can view the candidates' information and resumes.  
-When the candidate submits the form he will get an email confirmation.  
-I've used Django Framework to create this website.  
-For the database,e I've used MySQL.
+This is a **Django-based** web application designed for **company recruiters** to manage job applications.
 
-## Photos
+## Features
+- Candidates can submit job applications via an online form.
+- Recruiters can view and manage applications from the **Admin panel**.
+- Candidates receive an **email confirmation** upon successful submission.
+- **MySQL** is used as the database for storing application data.
+
+## Technologies Used
+✅ Django Framework (Backend)  
+✅ MySQL (Database)  
+✅ SMTP (Email confirmations)  
+
+## Screenshots
 
 ### Main page
 ![image](https://github.com/sefi0609/Job-Application/assets/81361291/7080c209-7450-47dc-9e62-b935c9a58032)
